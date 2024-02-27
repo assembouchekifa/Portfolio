@@ -1,6 +1,7 @@
 :root {
   --text-color: #222831;
   --bg-page: #ffffff;
+  --bg-pr: #fdc964;
 
   --max-width: 1100px;
   --border-radius: 12px;
@@ -46,6 +47,10 @@
   box-sizing: border-box;
   padding: 0;
   margin: 0;
+}
+
+html {
+  scroll-padding-top: 80px;
 }
 
 html,

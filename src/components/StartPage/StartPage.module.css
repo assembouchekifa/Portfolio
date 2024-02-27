@@ -1,0 +1,18 @@
+.colum {
+  height: 600px;
+}
+.textpage,
+.but {
+  color: var(--text-color);
+}
+
+.but {
+  background-color: var(--bg-pr);
+  letter-spacing: 1.5px;
+}
+.but:hover {
+  background-color: var(--bg-pr);
+}
+.photo {
+  min-height: 300px;
+}
