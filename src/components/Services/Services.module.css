@@ -1,0 +1,19 @@
+.bor {
+  border-color: var(--bg-pr) !important ;
+}
+
+.textpage {
+  color: var(--text-color);
+}
+
+.photo {
+  height: 50px;
+  width: 50px;
+}
+
+.bg-1 {
+  background-color: #e57eff;
+}
+.bg-2 {
+  background-color: #8aff84;
+}

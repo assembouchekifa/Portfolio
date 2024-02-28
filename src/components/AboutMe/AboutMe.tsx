@@ -6,9 +6,9 @@ function AboutMe() {
     <main id="aboutMe" className="mt-5">
       <h1 className={classNames("text-center fw-bold  ", styles.textpage)}>
         <span className={classNames("border-bottom border-4  ", styles.bor)}>
-          About
-        </span>{" "}
-        Me
+          Abou
+        </span>
+        t Me
       </h1>
       <p className="fs-4 my-4 px-0 text-center px-sm-5 opacity-75">
         Hi Everyone, I am Assem Abdeljalil Bouchekifa from Algeria.

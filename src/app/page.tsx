@@ -4,6 +4,7 @@ import classNames from "classnames";
 import Nav from "@/components/Nav/Nav";
 import StrartPage from "@/components/StartPage/StartPage";
 import AboutMe from "@/components/AboutMe/AboutMe";
+import Services from "@/components/Services/Services";
 
 export default function Home() {
   return (
@@ -12,6 +13,7 @@ export default function Home() {
       <div style={{ height: "76px" }}></div>
       <StrartPage />
       <AboutMe />
+      <Services />
     </main>
   );
 }
