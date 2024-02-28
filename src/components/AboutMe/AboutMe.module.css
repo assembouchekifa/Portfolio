@@ -1,0 +1,25 @@
+.bor {
+  border-color: var(--bg-pr) !important ;
+}
+
+.textpage,
+.but {
+  color: var(--text-color);
+}
+
+.but {
+  background-color: var(--bg-pr);
+  letter-spacing: 1.5px;
+}
+.but:hover {
+  background-color: var(--bg-pr);
+}
+
+.but-2 {
+  background-color: transparent;
+  letter-spacing: 1.5px;
+  border: solid var(--bg-pr) 2px;
+}
+.but-2:hover {
+  background-color: var(--bg-pr);
+}

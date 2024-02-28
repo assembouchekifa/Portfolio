@@ -3,6 +3,7 @@ import styles from "./page.module.css";
 import classNames from "classnames";
 import Nav from "@/components/Nav/Nav";
 import StrartPage from "@/components/StartPage/StartPage";
+import AboutMe from "@/components/AboutMe/AboutMe";
 
 export default function Home() {
   return (
@@ -10,6 +11,7 @@ export default function Home() {
       <Nav />
       <div style={{ height: "76px" }}></div>
       <StrartPage />
+      <AboutMe />
     </main>
   );
 }
