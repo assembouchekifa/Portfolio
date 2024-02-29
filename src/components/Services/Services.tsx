@@ -24,7 +24,7 @@ function Services() {
         <div className="row gap-3 justify-content-center  ">
           <div
             className={classNames(
-              "col-12 p-5 col-sm-5 rounded ",
+              "col-12 p-5 col-sm-5 rounded shadow",
               styles["bg-1"]
             )}
           >
@@ -57,7 +57,7 @@ function Services() {
           </div>
           <div
             className={classNames(
-              "col-12 col-sm-5 p-5 rounded",
+              "col-12 col-sm-5 p-5 rounded shadow",
               styles["bg-2"]
             )}
           >
