@@ -25,7 +25,7 @@ function Project() {
           <div className="col-12 col-md-4  ">
             <a
               target="_blank"
-              href="assembouchekifa.github.io/Remove-Background-Web"
+              href="https://assembouchekifa.github.io/Remove-Background-Web"
               className="position-relative d-flex w-100 mx-2 my-4 shadow"
             >
               <Image
