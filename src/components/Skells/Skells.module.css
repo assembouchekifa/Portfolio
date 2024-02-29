@@ -1,0 +1,10 @@
+.bor {
+  border-color: var(--bg-pr) !important ;
+}
+
+.textpage {
+  color: var(--text-color);
+}
+.wfit {
+  width: fit-content;
+}

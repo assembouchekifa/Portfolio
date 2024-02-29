@@ -1,8 +1,6 @@
 import Image from "next/image";
 import styles from "./Project.module.css";
 import classNames from "classnames";
-import Link from "next/link";
-Link;
 
 function Project() {
   return (

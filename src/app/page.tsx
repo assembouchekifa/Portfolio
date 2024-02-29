@@ -6,6 +6,7 @@ import StrartPage from "@/components/StartPage/StartPage";
 import AboutMe from "@/components/AboutMe/AboutMe";
 import Services from "@/components/Services/Services";
 import Project from "@/components/projects/Project";
+import Skells from "@/components/Skells/Skells";
 
 export default function Home() {
   return (
@@ -16,6 +17,7 @@ export default function Home() {
       <AboutMe />
       <Services />
       <Project />
+      <Skells />
     </main>
   );
 }

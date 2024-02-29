@@ -69,9 +69,9 @@ function Nav() {
             <li className="nav-item  ">
               <a
                 className={classNames("nav-link  px-3 ", styles.textpage)}
-                href="#work"
+                href="#skillset"
               >
-                Work
+                Skillset
               </a>
             </li>
           </ul>
