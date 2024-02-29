@@ -1,0 +1,17 @@
+.bg {
+  background-color: var(--bg-pr);
+  width: 100vw;
+  transform: translateX(-24px);
+}
+
+.textpage {
+  color: var(--text-color);
+}
+
+/* .but {
+  background-color: var(--bg-page);
+  letter-spacing: 1.5px;
+}
+.but:hover {
+  background-color: var(--bg-page);
+} */

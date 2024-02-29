@@ -1,0 +1,10 @@
+.textpage {
+  color: var(--text-color);
+}
+
+.but {
+  background-color: var(--bg-page);
+}
+.but:hover {
+  background-color: var(--bg-page);
+}

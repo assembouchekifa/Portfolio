@@ -24,7 +24,7 @@ function AboutMe() {
         <a className={styles.textpage} href="#projects">
           <button
             className={classNames(
-              "btn px-5 mt-2 mb-5 py-2 fw-bold mx-3 ",
+              "btn px-5 mt-2 mb-5 py-2 fw-bold mx-3 shadow",
               styles.but
             )}
           >
@@ -34,7 +34,7 @@ function AboutMe() {
         <a className={styles.textpage} href="#">
           <button
             className={classNames(
-              "btn px-5 mt-2 mb-5 py-2 fw-bold mx-3 ",
+              "btn px-5 mt-2 mb-5 py-2 fw-bold mx-3 shadow",
               styles["but-2"]
             )}
           >
