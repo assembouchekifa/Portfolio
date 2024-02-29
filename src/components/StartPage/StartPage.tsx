@@ -9,7 +9,7 @@ function StartPage() {
         <div className="row">
           <div
             className={classNames(
-              "col-12 col-lg-6 d-flex flex-column align-items-center my-5 "
+              "col-12 col-lg-6 d-flex flex-column justify-content-center align-items-center my-5 "
             )}
           >
             {" "}
@@ -46,13 +46,14 @@ function StartPage() {
           >
             <Image
               src={"/bgphoto.svg"}
-              className="object-fit-contain"
+              className="object-fit-cover overflow-visible"
               alt={"photobg"}
               fill
             />
             <Image
-              src={"/mypoto.png"}
-              className="object-fit-contain"
+              src={"/maypoto.png"}
+              className="object-fit-contain position-relative"
+              style={{ zIndex: 20 }}
               alt={"May photo"}
               fill
               sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"

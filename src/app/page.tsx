@@ -1,6 +1,3 @@
-import Image from "next/image";
-import styles from "./page.module.css";
-import classNames from "classnames";
 import Nav from "@/components/Nav/Nav";
 import StrartPage from "@/components/StartPage/StartPage";
 import AboutMe from "@/components/AboutMe/AboutMe";
