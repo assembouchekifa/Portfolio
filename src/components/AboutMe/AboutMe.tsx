@@ -31,7 +31,11 @@ function AboutMe() {
             VIEW WORKS
           </button>
         </a>
-        <a className={styles.textpage} href="#">
+        <a
+          className={styles.textpage}
+          download={"Assem Bouchekifa CV.pdf"}
+          href="/Assem Bouchekifa CV.pdf"
+        >
           <button
             className={classNames(
               "btn px-5 mt-2 mb-5 py-2 fw-bold mx-3 shadow",
